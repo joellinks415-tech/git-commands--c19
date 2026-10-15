@@ -1,1 +1,5 @@
-
+<DOCTYPE html>
+<html lang "em"> 
+<head>
+   <meta charset-"UTF-8">
+   <meta name="Viewport" content "width= device width. inital-scale-1.0">
